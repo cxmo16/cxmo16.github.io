@@ -21,7 +21,7 @@ University Town, Shapingba District, Chongqing, China
 
 Contact
 ======
-[E-mail] (cxmo16@fudan.edu.cn; cxmo16@cqnu.edu.cn)
+E-mails :cxmo16@fudan.edu.cn; cxmo16@cqnu.edu.cn
 
 Office Location: Room 525, Huixian Building
 
