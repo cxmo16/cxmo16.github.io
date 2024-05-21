@@ -15,7 +15,7 @@ Associate Professor
 
 [Chongqing Normal University](https://www.cqnu.edu.cn/)
 
-University Town, Shapingba District, Chongqing, China
+University Town, Shapingba District, Chongqing, P. R. of China
 
 
 
