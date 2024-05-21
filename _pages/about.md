@@ -27,5 +27,5 @@ Office Location: Room 525, Huixian Building
 
 Research Interest
 ======
-My current research interests includes tensor analysis and computing, neural networks, and numerical and multilinear linear algebra.
+My current research interests include tensor analysis and computing, neural networks, and numerical and multilinear linear algebra.
 
